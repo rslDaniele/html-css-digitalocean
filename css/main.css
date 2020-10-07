@@ -76,3 +76,15 @@ input{
 button{
   width: 100%;
 }
+/* FINE CSS PRIMO JUMBOTRON */
+
+/* CSS SEZIONE LOGHI */
+
+#sezioneloghi{
+  background: lightgrey;
+  text-align: center;
+}
+
+.loghicentro{
+  width: 100%;
+}
