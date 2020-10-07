@@ -24,7 +24,7 @@ li{
 
 }
 
-a{
+ul a{
   text-decoration: none;
   color: black;
 }
@@ -50,4 +50,29 @@ a{
     display: none;
   }
 
+}
+/* FINE CSS NAVBAR */
+
+/* CSS PRIMO JUMBOTRON */
+#primojumbo{
+  background: blue;
+  min-height: 200px;
+  padding: 20px;
+}
+
+input{
+  width: 100%;
+  display: block;
+}
+
+#jumbodx{
+  background: white;
+}
+
+#createaccount{
+  background: lightblue;
+}
+
+button{
+  width: 100%;
 }
