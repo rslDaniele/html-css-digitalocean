@@ -1,0 +1,53 @@
+/* regole generali */
+*{
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+#primo{
+  /* min-height: 100px; */
+  background: lightblue;
+}
+
+
+/* CSS NAVBAR */
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+
+li{
+  display: inline;
+
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+
+#navbarsx{
+  margin: 5px;
+  vertical-align: middle;
+}
+
+#navbardx{
+  float: right;
+  margin: 5px;
+  vertical-align: middle;
+}
+
+#home{
+  width: 12%;
+}
+
+@media screen and (max-width: 768px) {
+  #navbardx{
+    display: none;
+  }
+
+}
