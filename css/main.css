@@ -163,3 +163,13 @@ th, td{
 }
 
 /* FINE CSS SEZIONE GET STARTED */
+
+/* CSS FOOTER */
+
+footer{
+  background: darkblue;
+}
+
+footer li{
+  display: block;
+}
