@@ -99,6 +99,10 @@ input{
 
 }
 
+#jumbodx a{
+  color: blue;
+}
+
 #createaccount{
   background: lightblue;
   color: white;
@@ -118,19 +122,25 @@ button{
 /* CSS SEZIONE LOGHI */
 
 #sezioneloghi{
-  background: lightgrey;
+  background: #f3f5f9;
   text-align: center;
+  padding: 30px;
 }
 
 #sezioneloghi img{
   width: 100%;
   vertical-align: middle;
   height: 100px;
+  padding: 10px;
 
 }
 
-#sezioneloghi a, h4{
-  padding: 30px;
+
+#sezioneloghi a{
+  text-decoration: none;
+  color: blue;
+  font-weight: 100px;
+
 }
 
 
@@ -149,12 +159,15 @@ button{
 
 #udeploy li {
   display: block;
+
 }
 
 #sezicone{
   margin-top: 30px;
   text-align: left;
 }
+
+
 
 /* FINE CSS SEZIONE DEPLOY */
 
