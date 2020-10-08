@@ -167,7 +167,7 @@ button{
 
 #titolideploy{
   text-align: center;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 #udeploy{
@@ -185,6 +185,7 @@ button{
 #sezicone{
   margin-top: 30px;
   text-align: left;
+  padding: 15px;
 }
 
 
@@ -199,6 +200,10 @@ button{
 
 }
 
+#carosello i, img{
+  vertical-align: middle;
+}
+
 
 #prop{
   width: 60%;
@@ -208,6 +213,25 @@ button{
 /* FINE CSS PRIMO CAROUSEL */
 
 /* CSS SEZIONE TRE ICONE */
+
+#treicone h1{
+  text-align: center;
+  padding: 30px;
+
+}
+
+#treicone{
+  padding: 30px;
+  margin-bottom: 60px;
+}
+
+#treicone a{
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+}
+
+
 
 /* CSS SEZIONE TABELLA */
 
