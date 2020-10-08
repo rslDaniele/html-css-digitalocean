@@ -140,3 +140,26 @@ th, td{
   border-bottom: 1px solid grey;
 }
 /* FINE CSS SEZIONE TABELLA */
+
+/* CSS SEZIONE GET STARTED */
+
+#started{
+  background: blue;
+  text-align: center;
+
+}
+
+#started h1{
+  color: white;
+  margin-top: 30px;
+}
+
+#started button{
+  width: 20%;
+  background: white;
+  border-radius: 5%;
+  padding: 10px;
+  color: lightblue;
+}
+
+/* FINE CSS SEZIONE GET STARTED */
