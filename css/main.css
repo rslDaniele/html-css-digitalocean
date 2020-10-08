@@ -125,3 +125,18 @@ button{
   width: 60%;
   margin-top: 50px;
 }
+
+/* FINE CSS PRIMO CAROUSEL */
+
+/* CSS SEZIONE TRE ICONE */
+
+/* CSS SEZIONE TABELLA */
+
+#tabella{
+  background: blue;
+}
+
+th, td{
+  border-bottom: 1px solid grey;
+}
+/* FINE CSS SEZIONE TABELLA */
