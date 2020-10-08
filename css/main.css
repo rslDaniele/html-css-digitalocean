@@ -195,7 +195,7 @@ button{
 /* CSS PRIMO CAROUSEL */
 
 #carosello{
-  background: lightgrey;
+  background: #f3f5f9;
   text-align: center;
 
 }
@@ -208,6 +208,11 @@ button{
 #prop{
   width: 60%;
   margin-top: 50px;
+}
+
+.fa-circle{
+  color: blue;
+  margin-bottom: 50px;
 }
 
 /* FINE CSS PRIMO CAROUSEL */
@@ -236,18 +241,32 @@ button{
 /* CSS SEZIONE TABELLA */
 
 #tabella{
-  background: blue;
+  background: #002ca7;
+  padding: 40px;
+}
+
+#tabella h1{
+  text-align: center;
+  color: white;
 }
 
 th, td{
   border-bottom: 1px solid grey;
+  color: white;
+  padding: 10px;
+
+}
+
+#tabella a{
+  text-decoration: none;
+  color: lightblue;
 }
 /* FINE CSS SEZIONE TABELLA */
 
 /* CSS SEZIONE GET STARTED */
 
 #started{
-  background: blue;
+  background: #002ca7 ;
   text-align: center;
 
 }
@@ -271,9 +290,28 @@ th, td{
 /* CSS FOOTER */
 
 footer{
-  background: darkblue;
+  background: #031c4e;
 }
 
-footer li{
+footer h4{
+  padding: 10px;
+  color: white;
+  text-align: left;
+}
+
+footer p{
+  padding: 5px;
+  color: #5c6a8a;
+}
+
+footer a{
   display: block;
+  color: #5c6a8a;
+  padding: 5px;
+  font-weight: bold;
+}
+
+#piede a{
+  display: inline;
+  padding: 5px;
 }
