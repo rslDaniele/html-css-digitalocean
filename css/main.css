@@ -56,7 +56,8 @@ ul a{
 
 /* CSS PRIMO JUMBOTRON */
 #primojumbo{
-  background: blue;
+  background-image: url(../digitalocean-img/home.jpg);
+  background-size: cover;
   min-height: 200px;
   padding: 20px;
 }
@@ -121,9 +122,18 @@ button{
   text-align: center;
 }
 
-.loghicentro{
+#sezioneloghi img{
   width: 100%;
+  vertical-align: middle;
+  height: 100px;
+
 }
+
+#sezioneloghi a, h4{
+  padding: 30px;
+}
+
+
 /* FINE CSS SEZIONE LOGHI */
 
 /* CSS SEZIONE DEPLOY */
